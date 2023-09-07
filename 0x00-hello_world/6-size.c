@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+ *task 6
+ */
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
