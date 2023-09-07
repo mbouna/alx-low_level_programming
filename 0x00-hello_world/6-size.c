@@ -1,6 +1,7 @@
 #include <stdio.h>
-/*
- *task 6
+/**
+ * main - main block
+ * Return: 0
  */
 int main(void)
 {
