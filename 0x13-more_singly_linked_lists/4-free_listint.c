@@ -1,6 +1,6 @@
 /*
  * File: 4-free_listint.c
- * Auth: Brennan D Baraban
+ * Auth: Mohammed BOUNA
  */
 
 #include "lists.h"
