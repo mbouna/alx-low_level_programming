@@ -5,7 +5,6 @@
  * error_file - checks if files can be opened.
  * @file_from: file_from.
  * @file_to: file_to.
- * @auth: Mohammed BOUNA
  * @argv: arguments vector.
  * Return: no return.
  */
